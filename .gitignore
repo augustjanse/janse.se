@@ -1,0 +1,4 @@
+pics/*
+!pics/profile.png
+
+jQueryRotate.js
